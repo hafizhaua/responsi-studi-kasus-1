@@ -2,7 +2,7 @@
 
 Nama : Hafizha Ulinnuha Ahmad  
 NIU : 456365
-Sesi : Jumat Siang 13.00 - Lab IF
+Sesi : tesganti
 Secret String : 09c94a33c7a98f1004232311d94190b2ac87bfeabf7944897a6f81a8820f54a320230616065335
 
 ## Checklist Responsi
